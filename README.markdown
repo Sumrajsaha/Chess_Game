@@ -1,4 +1,5 @@
 # Javascript Chess Game by Sumraj
+responsive game
 
 
 
