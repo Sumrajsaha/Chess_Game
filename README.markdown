@@ -1,4 +1,6 @@
-# Javascript Chess Game by Sumraj
+# Chess Game by Sumraj
+I have use React , Node.js to create create this 
+
 responsive game
 
 
